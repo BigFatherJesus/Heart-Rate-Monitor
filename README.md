@@ -29,9 +29,11 @@ The application has a GUI that allows users to:
 - Export the graph to a PNG image
 
 ## Usage
-'git clone https://github.com/BigFatherJesus/Heart-Rate-Monitor'
-'cd Heart-Rate-Monitor'
-'Start.bat'
+'''
+git clone https://github.com/BigFatherJesus/Heart-Rate-Monitor
+cd Heart-Rate-Monitor
+Start.bat
+'''
 To run the application, simply execute the `Start.bat` script.
 
 ## Future Work
