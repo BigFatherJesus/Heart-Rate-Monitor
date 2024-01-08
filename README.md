@@ -29,12 +29,20 @@ The application has a GUI that allows users to:
 - Export the graph to a PNG image
 
 ## Usage
-'''
-git clone https://github.com/BigFatherJesus/Heart-Rate-Monitor
-cd Heart-Rate-Monitor
-Start.bat
-'''
-To run the application, simply execute the `Start.bat` script.
+
+To use the application, follow these steps:
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/BigFatherJesus/Heart-Rate-Monitor
+    ```
+
+2. Navigate to the project directory:
+    ```
+    cd Heart-Rate-Monitor
+    ```
+
+3. Execute the `Start.bat` script to run the application.
 
 ## Future Work
 
